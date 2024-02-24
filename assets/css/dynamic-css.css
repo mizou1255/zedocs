@@ -1,0 +1,76 @@
+            .zd_logo_style {
+                margin: 0 !important;
+            }
+            @media (max-width: 450px) {
+                
+                .zd_logo_style img {
+                    max-height: 40px;
+                    max-width: 200px !important;
+                }
+            }
+                    h1, h1 a {
+                font-family: Exo !important;
+                font-weight:  !important;
+                color: #223a66 !important;
+            }
+            
+                    h2, h2 a {
+                font-family: Exo !important;
+                font-weight:  !important;
+                color: #223a66 !important;
+            }
+                    h3, h3 a {
+                font-family: Exo !important;
+                font-weight:  !important;
+                color: #223a66 !important
+            }
+                    h4, h4 a {
+                font-family: Poppins !important;
+                font-weight:  !important;
+                color: #223a66 !important
+            }
+                    h5, h5 a {
+                font-family: Poppins !important;
+                font-weight:  !important;
+                color: #223a66 !important
+            }
+                    h6, h6 a {
+                font-family: Poppins !important;
+                font-weight:  !important;
+                color: #223a66 !important
+            }
+                    :root {
+                --bs-primary: #0D6EFD!important;
+            }
+            .btn-primary {
+                --bs-btn-bg: #0D6EFD!important;
+                --bs-btn-border-color: #0D6EFD!important;
+                --bs-btn-disabled-bg: #0D6EFD!important;
+                --bs-btn-disabled-border-color: #0D6EFD!important;
+            }
+            .bg-primary {
+                background-color: #0D6EFD!important;
+            }
+
+            a {
+                color: #0D6EFD;
+            }
+                    :root {
+                --bs-secondary: #FFCA2C!important;
+            }
+            .btn-secondary {
+                --bs-btn-bg: #FFCA2C !important;
+                --bs-btn-border-color: #FFCA2C !important;
+                --bs-btn-disabled-bg: #FFCA2C !important;
+                --bs-btn-disabled-border-color: #FFCA2C !important;
+            }
+            
+            .btn-secondary:hover {
+                border-color: #FFCA2C !important;
+                color: #FFCA2C !important;
+            }
+            a:hover {
+                color: #FFCA2C;
+            }
+            
+        
