@@ -14,7 +14,7 @@ ZeDocs is a WordPress theme that allows you to easily create a comprehensive doc
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d50MWrw5mFA/0.jpg)](https://www.youtube.com/watch?v=d50MWrw5mFA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vh83wICmbVQ/0.jpg)](https://www.youtube.com/watch?v=Vh83wICmbVQ)
 
 ## Features
 
